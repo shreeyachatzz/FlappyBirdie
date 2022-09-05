@@ -1,3 +1,3 @@
 # FlappyBirdie
-##Site at:
-##https://shreeyachatzz.github.io/FlappyBirdie/
+Site at:
+https://shreeyachatzz.github.io/FlappyBirdie/
